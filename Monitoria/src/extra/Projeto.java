@@ -7,5 +7,9 @@ public class Projeto {
 		 proj = newProj;
 	}
 	
+	public String getProjt(){
+		return proj;
+	}
+	
 
 }
